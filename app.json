@@ -21,6 +21,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "Feed of user posts, each associated with an image and a comment section that can be cleared of comments.",
+    "githubUrl": "https://github.com/agap2-ag/reactive-feed",
+    "android": {
+      "package": "com.ago.reactivefeed"
     }
   }
 }
