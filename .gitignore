@@ -9,5 +9,16 @@ npm-debug.*
 *.orig.*
 web-build/
 
+# release ignores
+.vscode/
+assets/
+.editorconfig
+app.json
+babel.config.js
+package.json
+README.md
+tsconfig.json
+yarn.lock
+
 # macOS
 .DS_Store
